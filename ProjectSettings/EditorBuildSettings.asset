@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Tam/MainMenu.unity
+    guid: f71a206cf1ee9db40bfb337a7ce4bb5a
+  - enabled: 1
+    path: Assets/MiniGameScenes/MiniGame_1.unity
+    guid: a993a14dc8fddc84f93b53e914f386e8
+  - enabled: 1
+    path: Assets/Scenes/Kien/House.unity
+    guid: afebd63462789274d8202819939c5c73
+  - enabled: 1
+    path: Assets/MiniGameScenes/RacingBoy/Racing.unity
+    guid: b22b8b9a887909c4face26b826890854
+  - enabled: 1
+    path: Assets/Scenes/Khoa/Cho.unity
+    guid: b735fd715fc27f94ea9c66d4f10bdffd
+  - enabled: 1
+    path: Assets/Scenes/Tam/Nha.unity
+    guid: 59f3c54c969fab84fa1e884e9aefe550
+  - enabled: 1
+    path: Assets/MiniGameScenes/Shopping/ShoppingGame.unity
+    guid: 0050449774a597a439c153ced23142ff
+  - enabled: 1
+    path: Assets/Scenes/Kien/Minigame.unity
+    guid: d7225c586bf5bfa45b1b71247a9b2f7c
+  - enabled: 1
+    path: Assets/Scenes/Ngan/SampleScene.unity
+    guid: 6e511e47048dae143a27a00c616f17ad
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
